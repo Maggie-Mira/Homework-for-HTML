@@ -1,6 +1,4 @@
-## Welcome to MAggie Pages
-
-
+## Welcome to Maggie Pages
 
 ### Markdown
 
