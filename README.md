@@ -1,33 +1,106 @@
-## Welcome to Maggie Pages
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>TOTO World</title>
+        <!-- Bootstrap CSS -->
+        <!--link rel="stylesheet" href="css/bootstrap.css"-->
+        <link rel="stylesheet" href="css/test.css">
+        <!-- main css -->
+        <link rel="stylesheet" href="css/style.css">
+        
+    </head>
+    <body>
+        
+        <!--================Banner Area =================-->
+        <section class="banner_area blog_banner d_flex align-items-center">
 
-### Markdown
+            <div class="overlay bg-parallax" data-stellar-ratio="0.9" data-stellar-vertical-offset="0" data-background=""></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        
+            <div class="container">
+                <div class="banner_content text-center" >
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+                    <h4>Welcome to TOTO World<br />.</h4>
+                    <p>An adorable Doggie's World</p>
+                    <!--p>The place </p-->
+                    <!--
+                    <a href="#" class="btn white_btn button_hover">View More</a>
+                	-->
+                </div>
+            </div>
+        </section>
+        <!--================Banner Area =================-->
+        
+        <!--================Blog Categorie Area =================-->
 
-- Bulleted
-- List
+        <section class="blog_categorie_area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="categories_post">
+                            <img src="image/TOTOinGrass1.jpg" alt="post">
+                            <div class="categories_details">
+                                <div class="categories_text">
+                                    <a href="blog-details.html"><h5>Walking</h5></a>
+                                    <div class="border_line"></div>
+                                    <p>in the park</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="categories_post">
+                            <img src="image/TOTOwithFamily1.jpg" alt="post">
+                            <div class="categories_details">
+                                <div class="categories_text">
+                                    <a href="blog-details.html"><h5>Accompany</h5></a>
+                                    <div class="border_line"></div>
+                                    <p>enjoy the life with family</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="categories_post">
+                            <img src="image/LittleTOTO1.jpg" alt="post">
+                            <div class="categories_details">
+                                <div class="categories_text">
+                                    <a href="blog-details.html"><h5>Destiny</h5></a>
+                                    <div class="border_line"></div>
+                                    <p>for the first time</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+        <!--================Blog Categorie Area =================-->
+        
+        <!--================ start footer Area  =================-->	
+        <footer class="footer-area section_gap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6  col-md-6 col-sm-6">
+                        <div class="single-footer-widget">
+                            <h6 class="footer_title">About TOTO</h6>
+                            <p> TOTO is a adorable doggy. <br>Birthday: 2018/2/18<br>Gender: lovely Girl<br>Variety: MIX<br>Favorite thing: Eat, Walking, Sleep with Daddy.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        					
+                        
+                    </div>							
+                <div class="border_line"></div>
+            </div>
+        </footer>
+		<!--================ End footer Area  =================-->
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maggie-Mira/Homework-for-HTML/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        
+    </body>
+</html>
